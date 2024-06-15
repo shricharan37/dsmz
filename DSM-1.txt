@@ -1,0 +1,15 @@
+Name	 Heyndrickxia coagulans (Hammer 1915) Narsing-Rao et al. 2023
+DSM No.	 1, Type strain
+Strain designation	 609, NRS 609
+Other collection no. or WDCM no.	 CCM 2013,NCIB 9365,NCTC 10334,WDCM 00002
+Isolated from	 evaporated milk
+Country	 country of origin unknown
+Date of sampling	 before 17.04.1974
+Nagoya Protocol Restrictions	 There are NO known Nagoya Protocol restrictions for this strain.
+History	 <- ATCC <- N.R. Smith, 609 <- J. Porter <- B. Hammer
+Genbank accession numbers	 whole genome shotgun sequence: ALAS00000000 16S rRNA gene: DQ297928 complete genome: CP009709
+Cultivation conditions	 Medium 453 , 40°C or Medium 1 , 40°C Complete DSMZ Media List
+Summary and additional information	 <- ATCC <- N.R. Smith, 609 <- J. Porter <- B. Hammer. Evaporated milk. Type strain. . Taxonomy/description (1300, 3396, 3768, 40750). Sequence accession no. whole genome shotgun sequence: ALAS00000000, 16S rRNA gene: DQ297928, complete genome: CP009709. Produces inhibitors for glycoside hydrolases (Brit. Pat. 155,409), L(+)-lactic acid (3394). (Medium 453, 40°C or Medium 1, 40°C)
+Literature	 1026 , 1300 , 3394 , 3396 , 3768 , 6519 , 40750
+Risk group	 1 (+)  (classification according to German TRBA )
+Supplied as	 Delivery form Prices Freeze Dried 100,- € Active culture on request 240,- € DNA 150,- € Price Category for this culture: 1 Freight and handling charges will be added. See price list.
